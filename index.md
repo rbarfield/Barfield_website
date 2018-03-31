@@ -2,6 +2,7 @@
 layout: default
 title: Richard T. Barfield, PhD
 ---
+<html lang="en-us">
 <div class="blurb">
 	<h1>Richard T. Barfield, PhD</h1>
 	<p>Postdoctoral fellow in biostatistics <br> Fred Hutchinson Cancer Research Center, Seattle, WA </p>
