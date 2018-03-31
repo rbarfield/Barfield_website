@@ -8,16 +8,14 @@ layout: default
 
 **Richard T. Barfield**, Varun Kilaru, Alicia K. Smith, Karen N. Conneely; CpGassoc: an R function for analysis of DNA methylation microarray data, [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/28/9/1280/312316), Volume 28, Issue 9, 1 May 2012, Pages 1280–1281
 
-
-Co-First Author Papers
+<h1 id="CoFirstPapers">Co-First Author Papers</h1>
 
 **Barfield R**, Shen J, Just AC, et al. Testing for the indirect effect under the null for genome‐wide mediation analyses. [*Genet Epidemiol*](https://doi.org/10.1002/gepi.22084). 2017;41:824–833.
 
 Krier J, **Barfield R**, Green RC, Kraft P. Reclassification of genetic-based risk predictions as GWAS data accumulate. [*Genome Medicine*](http://doi.org/10.1186/s13073-016-0272-5). 2016;8:20.
 
 
-
-Co-Author Papers
+<h1 id="Co-Papers">Co-Author Papers</h1>
 
 Wolpin, B. M., Rizzato, C., Kraft, P., Kooperberg, C., Petersen, G. M., Wang, Z.,.., Amundadottir, L. T. (2014). Genome-wide association study identifies multiple susceptibility locifor pancreatic cancer. [*Nature Genetics*](http://doi.org/10.1038/ng.3052), 46(9), 994–1000.      
 
