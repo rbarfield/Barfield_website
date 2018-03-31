@@ -2,8 +2,7 @@
 layout: default
 ---
 ### Publications
-
-<h1 First Author Papers</h1>
+<h1 id="FirstPapers">First Author Papers</h1>
 
 **Barfield, R. T.**, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies. [*Genet. Epidemiol.*](https://doi.org/10.1002/gepi.21789), 38: 231-241.
 
