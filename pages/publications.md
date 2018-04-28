@@ -15,7 +15,7 @@ layout: default
 Krier J, **Barfield R**, Green RC, Kraft P. Reclassification of genetic-based risk predictions as GWAS data accumulate. [*Genome Medicine*](http://doi.org/10.1186/s13073-016-0272-5). 2016;8:20.
 
 
-<h1 id="Co-Papers">Co-Author Papers*</h1>
+<h1 id="Co-Papers">Co-Author Papers</h1>
 
 Wolpin, B. M., Rizzato, C., Kraft, P., Kooperberg, C., Petersen, G. M., Wang, Z.,.., Amundadottir, L. T. (2014). Genome-wide association study identifies multiple susceptibility locifor pancreatic cancer. [*Nature Genetics*](http://doi.org/10.1038/ng.3052), 46(9), 994–1000.      
 
