@@ -25,3 +25,7 @@ Varun Kilaru, **Richard T. Barfield**, James W. Schroeder, Alicia K. Smith & Kar
 
 Goldlust IS, Hermetz KE, Catalano LM, et al. Mouse model implicates GNB3 duplication in a childhood obesity syndrome. [*Proceedings of the National Academy of Sciences of the United States of America*](http://doi.org/10.1073/pnas.1305999110). 2013;110(37):14990-14994.
 
+<h1 id="Co-Papers">Papers Under Revision</h1>
+**R. Barfield**, H. Feng, A. Gusev,…, B. Pasaniuc, and P. Kraft “Transcriptome-wide association studies accounting for colocalization using Egger regression.”  Second Round of Revisions March 2018.  
+
+
