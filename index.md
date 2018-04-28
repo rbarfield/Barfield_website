@@ -5,8 +5,8 @@ title: Richard T. Barfield, PhD
 <html lang="en-us">
 <div class="blurb">
 	<h1>Richard T. Barfield, PhD</h1>
-	<p>Postdoctoral fellow in biostatistics <br> Fred Hutchinson Cancer Research Center, Seattle, WA </p>
-        <p>Postdoctoral fellow in epidemiology <br> University of Washington, Seattle, WA </p>	
+	<p>Postdoctoral Fellow in Biostatistics <br> Fred Hutchinson Cancer Research Center, Seattle, WA </p>
+        <p>Postdoctoral Fellow in Epidemiology <br> University of Washington, Seattle, WA </p>	
 </div><!-- /.blurb -->
 
 
