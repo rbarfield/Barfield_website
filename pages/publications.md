@@ -29,4 +29,5 @@ Goldlust IS, Hermetz KE, Catalano LM, et al. Mouse model implicates GNB3 duplica
 
 **R. Barfield**, H. Feng, A. Gusev,…, B. Pasaniuc, and P. Kraft “Transcriptome-wide association studies accounting for colocalization using Egger regression.”  Second Round of Revisions March 2018.  
 
+J. Carmona, **R. Barfield**, T. Panni, ..., H. Schulz, and A. Baccarelli, “Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts.” First Round of Revisions April 2018.  
 
