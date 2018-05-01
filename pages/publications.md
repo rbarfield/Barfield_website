@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 #### Publications
 <h1 id="FirstPapers">First Author Papers</h1>
