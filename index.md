@@ -21,11 +21,9 @@ title: Richard T. Barfield, PhD
 <h1 id="education">Education</h1>
  
       <div class="col-sm-7">
-        <h3>Education</h3>
         <ul class="ul-edu fa-ul">
           
           <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
               <p class="course">PhD in Biostatistics, 2017</p>
               <p class="institution">Harvard University</p>
@@ -33,7 +31,6 @@ title: Richard T. Barfield, PhD
           </li>
           
           <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
               <p class="course">BA in Mathematics, 2010</p>
               <p class="institution">University of North Florida</p>
