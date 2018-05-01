@@ -10,7 +10,7 @@ title: Richard T. Barfield, PhD
 </div><!-- /.blurb -->
 
 
-- [Publications](pages/publications.md)
+- [Publications](pages/publications.html)
 
 
 
