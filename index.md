@@ -29,6 +29,13 @@ title: Richard T. Barfield, PhD
               <p class="institution">Harvard University</p>
             </div>
           </li>
+
+          <li>
+            <div class="description">
+              <p class="course">MPH in Biostatistics, 2012</p>
+              <p class="institution">Emory University</p>
+            </div>
+          </li>
           
           <li>
             <div class="description">
