@@ -10,8 +10,7 @@ title: Richard T. Barfield, PhD
 </div><!-- /.blurb -->
 
 
-- [Publications](pages/publications.html)
-- <p class="view"><a href="pages/publications.html"> Publications </a></p>
+- <p class="view"><a href="pages/publications.html"> <h1>Publications</h1> </a></p>
           
 
 
