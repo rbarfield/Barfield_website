@@ -12,7 +12,7 @@ title: Richard T. Barfield, PhD
         <p>Postdoctoral Fellow in Epidemiology <br> University of Washington, Seattle, WA </p>	
 </div><!-- /.blurb -->
 
-<p class="view"><a href="pages/publications.html"> <big>Publications</big> </a></p>          
+<p class="view"><a href="pages/publications.html"> <h3>Publications</h3> </a></p>          
 
 <h3 id="biography">Biography</h3>
 
