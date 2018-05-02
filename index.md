@@ -2,6 +2,10 @@
 layout: default
 title: Richard T. Barfield, PhD
 ---
+
+
+### First things
+
 <html lang="en-us">
 <div class="blurb">
 	<h1>Richard T. Barfield, PhD</h1>
@@ -10,7 +14,6 @@ title: Richard T. Barfield, PhD
 </div><!-- /.blurb -->
 
 
-### First things
 
 - <p class="view"><a href="pages/publications.html"> Publications </a></p>
           
