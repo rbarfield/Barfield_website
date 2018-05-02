@@ -7,7 +7,6 @@ layout: page
 
 <p><b>Barfield, R. T.</b>, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies.<a href="https://doi.org/10.1002/gepi.21789"> <b>Genet. Epidemiol</b> </a>, 38: 231-241.</p>
 
-<a href="https://doi.org/10.1002/gepi.21789"> <b>Genet. Epidemiol</b> </a>
 
 <p><b>Richard T. Barfield</b>, Varun Kilaru, Alicia K. Smith, Karen N. Conneely; CpGassoc: an R function for analysis of DNA methylation microarray data,<a href="https://academic.oup.com/bioinformatics/article/28/9/1280/312316"> <b>Bioinformatics</b> </a> Volume 28, Issue 9, 1 May 2012, Pages 1280–1281</p>
 
