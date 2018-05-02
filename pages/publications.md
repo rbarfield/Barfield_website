@@ -9,7 +9,7 @@ layout: page
 
 <a href="https://doi.org/10.1002/gepi.21789"> <b>Genet. Epidemiol</b> </a>
 
-**Richard T. Barfield**, Varun Kilaru, Alicia K. Smith, Karen N. Conneely; CpGassoc: an R function for analysis of DNA methylation microarray data, [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/28/9/1280/312316), Volume 28, Issue 9, 1 May 2012, Pages 1280–1281
+<p>**Richard T. Barfield**, Varun Kilaru, Alicia K. Smith, Karen N. Conneely; CpGassoc: an R function for analysis of DNA methylation microarray data, [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/28/9/1280/312316), Volume 28, Issue 9, 1 May 2012, Pages 1280–1281</p>
 
 <h3 id="CoFirstPapers">Co-First Author Papers</h3>
 
