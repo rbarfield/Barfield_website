@@ -12,6 +12,7 @@ title: Richard T. Barfield, PhD
 
 - [Publications](pages/publications.html)
 - <p class="view"><a href="{{ site.url }}pages/publications.html"> Publications </a></p>
+          <p class="view"><a href="{{ site.url }}pages/publications.html"> Publications </a></p>
           
 
 
