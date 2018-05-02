@@ -15,7 +15,7 @@ title: Richard T. Barfield, PhD
 
 
 
-- <p class="view"><a href="pages/publications.html"> Publications </a></p>
+- <p class="view"><a href="pages/publications.html"> <big>Publications</big> </a></p>
           
 
 
