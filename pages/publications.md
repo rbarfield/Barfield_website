@@ -5,19 +5,19 @@ layout: page
 <h2> Publications
 <h3 id="FirstPapers">First Author Papers</h3>
 
-<p>Barfield, R. T., Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies. [Genet. Epidemiol.(https://doi.org/10.1002/gepi.21789)], 38: 231-241.</p>
+<p><b>Barfield, R. T.</b>, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies. [Genet. Epidemiol.(https://doi.org/10.1002/gepi.21789)], 38: 231-241.</p>
 
 <a href="https://doi.org/10.1002/gepi.21789"> <b>Genet. Epidemiol</b> </a>
 
-<p>**Richard T. Barfield**, Varun Kilaru, Alicia K. Smith, Karen N. Conneely; CpGassoc: an R function for analysis of DNA methylation microarray data, [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/28/9/1280/312316), Volume 28, Issue 9, 1 May 2012, Pages 1280–1281</p>
+<p><b>Richard T. Barfield</b>, Varun Kilaru, Alicia K. Smith, Karen N. Conneely; CpGassoc: an R function for analysis of DNA methylation microarray data, [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/28/9/1280/312316), Volume 28, Issue 9, 1 May 2012, Pages 1280–1281</p>
 
 <h3 id="CoFirstPapers">Co-First Author Papers</h3>
 
 
-<p>**Barfield R**, Shen J, Just AC, et al. Testing for the indirect effect under the null for genome‐wide mediation analyses. [*Genet Epidemiol*](https://doi.org/10.1002/gepi.22084). 2017;41:824–833.</p>
+<p><b>Barfield R</b>, Shen J, Just AC, et al. Testing for the indirect effect under the null for genome‐wide mediation analyses. [*Genet Epidemiol*](https://doi.org/10.1002/gepi.22084). 2017;41:824–833.</p>
 
 
-<p>Krier J, **Barfield R**, Green RC, Kraft P. Reclassification of genetic-based risk predictions as GWAS data accumulate. [*Genome Medicine*](http://doi.org/10.1186/s13073-016-0272-5). 2016;8:20.</p>
+<p>Krier J, <b>Barfield R</b>, Green RC, Kraft P. Reclassification of genetic-based risk predictions as GWAS data accumulate. [*Genome Medicine*](http://doi.org/10.1186/s13073-016-0272-5). 2016;8:20.</p>
 
 
 <h3 id="Co-Papers">Co-Author Papers</h3>
@@ -29,16 +29,16 @@ layout: page
 <p>Mercer KB, Orcutt HK, Quinn JF, et al. Acute and Posttraumatic Stress Symptoms in a Prospective Gene × Environment Study of a University Campus Shooting. [*Arch Gen Psychiatry*](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1107439). 2012;69(1):89–97.</p>
 
 
-<p>Varun Kilaru, **Richard T. Barfield**, James W. Schroeder, Alicia K. Smith & Karen N. Conneely (2012) MethLAB: A graphical user interface package for the analysis of array-based DNA methylation data, [*Epigenetics*](https://doi.org/10.4161/epi.7.3.19284), 7:3, 225-229.</p>
+<p>Varun Kilaru, <b>Richard T. Barfield</b>, James W. Schroeder, Alicia K. Smith & Karen N. Conneely (2012) MethLAB: A graphical user interface package for the analysis of array-based DNA methylation data, [*Epigenetics*](https://doi.org/10.4161/epi.7.3.19284), 7:3, 225-229.</p>
 
 
 <p>Goldlust IS, Hermetz KE, Catalano LM, et al. Mouse model implicates GNB3 duplication in a childhood obesity syndrome. [*Proceedings of the National Academy of Sciences of the United States of America*](http://doi.org/10.1073/pnas.1305999110). 2013;110(37):14990-14994.</p>
 
 <h3 id="Co-Papers">First or Co-First Author Papers Under Revision</h3>
 
-<p>**R. Barfield**, H. Feng, A. Gusev,…, B. Pasaniuc, and P. Kraft “Transcriptome-wide association studies accounting for colocalization using Egger regression.”  Second Round of Revisions March 2018. </p> 
+<p><b>R. Barfield</b>, H. Feng, A. Gusev,…, B. Pasaniuc, and P. Kraft “Transcriptome-wide association studies accounting for colocalization using Egger regression.”  Second Round of Revisions March 2018. </p> 
 
 
-<p>J. Carmona, **R. Barfield**, T. Panni, ..., H. Schulz, and A. Baccarelli, “Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts.” First Round of Revisions April 2018. </p> 
+<p>J. Carmona, <b>R. Barfield</b>, T. Panni, ..., H. Schulz, and A. Baccarelli, “Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts.” First Round of Revisions April 2018. </p> 
 
 
