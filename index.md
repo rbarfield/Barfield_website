@@ -5,7 +5,7 @@ title: Richard T. Barfield, PhD
 
 
 
-%<html lang="en-us">
+<html lang="en-us">
 <div class="blurb">
 	<h2>Richard T. Barfield, PhD</h2>
 	<p>Postdoctoral Fellow in Biostatistics <br> Fred Hutchinson Cancer Research Center, Seattle, WA </p>
