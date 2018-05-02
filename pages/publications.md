@@ -5,7 +5,7 @@ layout: page
 <h2> Publications
 <h3 id="FirstPapers">First Author Papers</h3>
 
-<p><b>Barfield, R. T.</b>, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies. [Genet. Epidemiol.(https://doi.org/10.1002/gepi.21789)], 38: 231-241.</p>
+<p><b>Barfield, R. T.</b>, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies.<a href="https://doi.org/10.1002/gepi.21789"> <b>Genet. Epidemiol</b> </a>, 38: 231-241.</p>
 
 <a href="https://doi.org/10.1002/gepi.21789"> <b>Genet. Epidemiol</b> </a>
 
