@@ -8,7 +8,7 @@ layout: page
 <p> R package wrote under the supervision of Dr. Conneely. Designed to test for association between methylation at CpG sites across the genome and a phenotype of interest, adjusting for any relevant covariates.</p>
 
 <h3 id="EWASMEDIAT">Fast EWAS Mediation</h3>
-Code to run quick mediation analysis across a set of DNA methylation markers. Gives association between CpG and Y given A and Xm as well as association between A and CpG given Xm. Will give for each CpG site. Assuming linear models for all variables. Xm is matrix of covariates adjusting for (not including intercept), CpG is an Nx p matrix with rows corresponding to sample and columns corresponding to DNA methylation marker.  
+<p>Code to run quick mediation analysis across a set of DNA methylation markers. Gives association between CpG and Y given A and Xm as well as association between A and CpG given Xm. Will give for each CpG site. Assuming linear models for all variables. Xm is matrix of covariates adjusting for (not including intercept), CpG is an Nx p matrix with rows corresponding to sample and columns corresponding to DNA methylation marker. </p> 
 
 
 	fastMEDiat.func<-function(Y,Xm,A,CpG){
