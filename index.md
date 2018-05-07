@@ -48,3 +48,6 @@ title: Richard T. Barfield, PhD
 <p class="view"><a href="https://cran.r-project.org/web/packages/CpGassoc/index.html"> <h3>CpGassoc</h3> </a></p>
 <p> R package wrote under the supervision of Dr. Conneely. Designed to test for association between methylation at CpG sites across the genome and a phenotype of interest, adjusting for any relevant covariates.</p>
 
+<p class="view"><a href="pages/Rcode.html"> <h3>R code</h3> </a></p>
+
+
