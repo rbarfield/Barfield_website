@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-<html lang="en-us">
 <h2> Rcode
 
 <p class="view"><a href="https://cran.r-project.org/web/packages/CpGassoc/index.html"> <h3>CpGassoc</h3> </a></p>
