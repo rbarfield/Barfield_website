@@ -28,7 +28,7 @@ layout: page
           Pval.A.to.M<-2*pt(abs(Test.A.to.M),df=length(Y)-numExplan,lower.tail=F)
           par2<-colSums(residDNA*c(residY))
           Est2<-par2/par1
-          PredY<-residDNA*matrix(Est2,nrow=nrow(residDNA),ncol=ncol(residDNA),byrow=T)
+       PredY<-residDNA*matrix(Est2,nrow=nrow(residDNA),ncol=ncol(residDNA),byrow=T)
           newResid<-PredY-c(residY)
           SSQ<-colSums(newResid^2)
           SIGMA<-SSQ/(length(Y)-numExplan-1)
