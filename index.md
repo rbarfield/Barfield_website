@@ -4,6 +4,7 @@ title: Richard T. Barfield, PhD
 ---
 
 
+<html lang="en-us">
 
 <div class="blurb">
 	<h2>Richard T. Barfield, PhD</h2>
