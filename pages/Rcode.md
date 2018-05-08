@@ -11,7 +11,7 @@ layout: page
 <p>Code to run quick mediation analysis across a set of DNA methylation markers. Gives association between CpG and Y given A and Xm as well as association between A and CpG given Xm. Will give for each CpG site. Assuming linear models for all variables. Xm is matrix of covariates adjusting for (not including intercept), CpG is an Nx p matrix with rows corresponding to sample and columns corresponding to DNA methylation marker. </p> 
 
   `r 
-#	fastMEDiat.func<-function(Y,Xm,A,CpG){
+         fastMEDiat.func<-function(Y,Xm,A,CpG){
   		XX<-cbind(1,A,Xm)
   		numExplan<-ncol(XX)
   		XXproj<-solve(t(XX)%*%XX)%*%t(XX)
@@ -37,3 +37,29 @@ layout: page
 		}
 
   `
+
+
+    context("running mean")
+
+    test_that("running mean stops when it should", {
+
+      expect_error( runningmean(0, c(0,0)) )
+
+    })
+
+    test_that("running mean with constant x or position", {
+
+      n <- 100
+      x <- rnorm(n)
+      pos <- rep(0, n)
+      expect_equal( runningmean(pos, x, window=1), rep(mean(x), n) )
+
+      mu <- mean(x)
+      x <- rep(mu, n)
+      pos <- runif(n, 0, 5)
+      expect_equal( runningmean(pos, x, window=1), x)
+
+    })
+
+
+
