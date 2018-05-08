@@ -48,4 +48,8 @@ title: Richard T. Barfield, PhD
 
 <p class="view"><a href="pages/Rcode.html"> <h3>R code</h3> </a></p>
 
+<h3 id="Contact">Contact</h3>
+<p> <a href="mailto:rbarfiel@fredhutch.org" target="_top"> <i class="fa fa-envelope-square fa-lg"> </i> rbarfiel@fredhutch.org</a>
+        </p>
+
 
