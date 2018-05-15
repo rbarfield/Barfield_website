@@ -16,7 +16,9 @@ title: Richard T. Barfield, PhD
 
 <h3 id="biography">Biography</h3>
 
-<p>I am a postdoctoral fellow in the Biostatistics, public health division at The Fred Hutchinson Cancer Research Center and in the Department of Epidemiology at the University of Washington. My research is with Li Hsu and Ulrike Peters. I recieved my PhD in biostatistics at Harvard University with Xihong Lin and Peter Kraft. Prior to my PhD, I received an MPH in Biostatistics from Emory University working with Karen Conneely. My research interests are in understanding the genomics of cancer and developing statistical methods to connect for summary data. I am currently working with tumor sequencing data in The Genetics and Epidemiology of Colorectal Cancer Consortium.  My current methodological focus is primarily in summary mendelian randomization and cancer analysis.</p>
+
+<p> I am a postdoctoral fellow in the biostatistics public health division at The Fred Hutchinson Cancer Research Center and in the department of epidemiology at the University of Washington. My advisors are Drs. Li Hsu and Ulrike Peters. Prior to moving to Seattle, I received my PhD in biostatistics at Harvard University working with Drs. Xihong Lin and Peter Kraft. Before that, I received an MPH in biostatistics from Emory University working with Dr. Karen Conneely. I am actively working on applied and methods projects. My applied word is with tumor sequencing data from The Genetics and Epidemiology of Colorectal Cancer Consortium. My current methodological focus is in summary mendelian randomization and novel tumor analysis methods.</p>
+
 
 <h3 id="education">Education</h3>
       <div class="col-sm-7">
