@@ -6,6 +6,10 @@ layout: page
 <p class="view"><a href="https://cran.r-project.org/web/packages/CpGassoc/index.html"> <h3>CpGassoc</h3> </a></p>
 <p> R package wrote under the supervision of Dr. Conneely. Designed to test for association between methylation at CpG sites across the genome and a phenotype of interest, adjusting for any relevant covariates.</p>
 
+<h3><id="DNAmpop">DNA methylation population stratification></h3>
+<p> Code and information on DNA methylation population stratification work done from Barfield et al 2014. Can be <a href="http://genetics.emory.edu/research/conneely/annotation-r-code.html">found here</a>. Paper can be found <a href="https://www.ncbi.nlm.nih.gov/pubmed/24478250">here</a></p>
+
+
 <h3 id="EWASMEDIAT">Fast EWAS Mediation</h3>
 <p>Code to run quick mediation analysis across a set of DNA methylation markers. Gives association between CpG and Y given A and Xm as well as association between A and CpG given Xm. Will give for each CpG site. Assuming linear models for all variables. Xm is matrix of covariates adjusting for (not including intercept), CpG is an Nx p matrix with rows corresponding to sample and columns corresponding to DNA methylation marker. </p> 
 
