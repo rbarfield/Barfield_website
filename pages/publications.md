@@ -5,8 +5,11 @@ layout: page
 <h2> Publications
 <h3 id="FirstPapers">First Author Papers</h3>
 
-<p><b>Barfield, R. T.</b>, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies.<a href="https://doi.org/10.1002/gepi.21789"> <b>Genet. Epidemiol</b> </a>, 38: 231-241.</p>
+<p><b>R. Barfield</b>, H. Feng, A. Gusev,…, B. Pasaniuc, and P. Kraft “Transcriptome-wide association studies accounting for colocalization using Egger regression.”  Second Round of Revisions March 2018. </p>
 
+Barfield R, Feng H, Gusev A, et al. Transcriptome‐wide association studies accounting for colocalization using Egger regression.  <a href="https://doi.org/10.1002/gepi.22131"><b> Genet. Epidemiol</b></a> Genet Epidemiol. 2018; 1–16.
+
+<p><b>Barfield, R. T.</b>, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies.<a href="https://doi.org/10.1002/gepi.21789"> <b>Genet. Epidemiol</b> </a>, 38: 231-241.</p>
 
 <p><b>Richard T. Barfield</b>, Varun Kilaru, Alicia K. Smith, Karen N. Conneely; CpGassoc: an R function for analysis of DNA methylation microarray data,<a href="https://academic.oup.com/bioinformatics/article/28/9/1280/312316"> <b>Bioinformatics</b> </a> Volume 28, Issue 9, 1 May 2012, Pages 1280–1281</p>
 
@@ -35,7 +38,6 @@ layout: page
 
 <h3 id="Co-Papers">First or Co-First Author Papers Under Revision</h3>
 
-<p><b>R. Barfield</b>, H. Feng, A. Gusev,…, B. Pasaniuc, and P. Kraft “Transcriptome-wide association studies accounting for colocalization using Egger regression.”  Second Round of Revisions March 2018. </p> 
 
 
 <p>J. Carmona, <b>R. Barfield</b>, T. Panni, ..., H. Schulz, and A. Baccarelli, “Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts.” First Round of Revisions April 2018. </p> 
