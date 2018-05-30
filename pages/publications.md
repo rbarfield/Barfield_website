@@ -6,7 +6,7 @@ layout: page
 <h3 id="FirstPapers">First Author Papers</h3>
 
 
-<p><b>Barfield R </b>, Feng H, Gusev A, et al. Transcriptome‐wide association studies accounting for colocalization using Egger regression.  <a href="https://doi.org/10.1002/gepi.22131"><b> Genet. Epidemiol</b></a> Genet Epidemiol. 2018; 1–16.</p>
+<p><b>Barfield R </b>, Feng H, Gusev A, et al. Transcriptome‐wide association studies accounting for colocalization using Egger regression.  <a href="https://doi.org/10.1002/gepi.22131"><b> Genet. Epidemiol</b></a> 2018; 1–16.</p>
 
 <p><b>Barfield, R. T.</b>, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies.<a href="https://doi.org/10.1002/gepi.21789"> <b>Genet. Epidemiol</b> </a>, 38: 231-241.</p>
 
