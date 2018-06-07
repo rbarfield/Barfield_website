@@ -46,6 +46,27 @@ layout: page
 </figure>
 
    
+<h3 id="LDA MR Code">LDA MR-Egger Code </h3>
+<p> Code to run LDA MR-Egger Regression as discussed in Barfield et al (2018). X is the vector of  joint eQTL effects. Y is the vector of joint GWAS effects.W is the inverse of the covariance of the joint GWAS effects (i.e. var(Y)).</p>
+
+<figure>
+  <figcaption>LDA MR-Egger Code</figcaption>
+  <pre>
+    <code>
+    LDA.MREgger<-function(X,Y,W){
+ 	 bX<-cbind(1,X)
+	 bread<-solve(crossprod(bX,W)%*%bX)
+	 theEsts<-bread%*%crossprod(bX,W%*%Y)
+	 theresid<-c(Y-theEsts[1]-X*theEsts[2])
+	 Sig.Est<-c(crossprod(theresid,W%*%theresid))/(length(X)-2)
+	 finresults<- cbind(theEsts,diag(bread)*Sig.Est)
+	 TestStat<-theEsts/sqrt(finresults[,2])
+	 Pvals<-2*pt(abs(TestStat),df = nrow(bX)-2,lower.tail = F)
+	 return(cbind(finresults,TestStat,Pvals))
+     }
+    </code>
+  </pre>
+</figure>
 
 
 
