@@ -13,11 +13,11 @@ layout: page
 
 <h4 id="2017">2017</h4>
 
-<p><b>Barfield R<sup>*<sup></b>, Shen J, Just AC, et al. Testing for the indirect effect under the null for genome‐wide mediation analyses. <a href="https://doi.org/10.1002/gepi.22084"> <b>Genet Epidemiol</b> </a>, 2017;41:824–833.</p>
+<p><b>Barfield R<sup>*</sup></b>, Shen J, Just AC, et al. Testing for the indirect effect under the null for genome‐wide mediation analyses. <a href="https://doi.org/10.1002/gepi.22084"> <b>Genet Epidemiol</b> </a>, 2017;41:824–833.</p>
 
 <h4 id="2016">2016</h4>
 
-<p>Krier J, <b>Barfield R<sup>*<sup></b>, Green RC, Kraft P. Reclassification of genetic-based risk predictions as GWAS data accumulate.<a href="http://doi.org/10.1186/s13073-016-0272-5"> <b>Genome Medicine</b> </a>. 2016;8:20.</p>
+<p>Krier J, <b>Barfield R<sup>*</sup></b>, Green RC, Kraft P. Reclassification of genetic-based risk predictions as GWAS data accumulate.<a href="http://doi.org/10.1186/s13073-016-0272-5"> <b>Genome Medicine</b> </a>. 2016;8:20.</p>
 
 
 <h4 id="2014">2014</h4>
@@ -43,8 +43,8 @@ layout: page
 
 <h3 id="Co-Papers">Papers Under Revision</h3>
 
-<p>J. Carmona, <b>R. Barfield<sup>*<sup></b>, T. Panni, ..., H. Schulz, and A. Baccarelli, “Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts.” Second Round of Revisions August 2018. </p> 
+<p>J. Carmona, <b>R. Barfield<sup>*</sup></b>, T. Panni, ..., H. Schulz, and A. Baccarelli, “Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts.” Second Round of Revisions August 2018. </p> 
 
 
 
-<sup>*<sup> Co First Author
+<sup>*</sup> Co First Author
