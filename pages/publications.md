@@ -5,7 +5,7 @@ layout: page
 <h2> Publications
 
 
-<h1 id="2018">2018</h1>
+<h4 id="2018">2018</h4>
 
 <p><b>Barfield R </b>, Feng H, Gusev A, et al. Transcriptome‐wide association studies accounting for colocalization using Egger regression.  <a href="https://doi.org/10.1002/gepi.22131"><b> Genet. Epidemiol</b></a> 2018; 1–16.</p>
 
