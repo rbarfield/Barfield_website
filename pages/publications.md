@@ -4,7 +4,6 @@ layout: page
 <html lang="en-us">
 <h2> Publications
 
-
 <h4 id="2018">2018</h4>
 
 <p><b>Barfield R </b>, Feng H, Gusev A, et al. Transcriptome‐wide association studies accounting for colocalization using Egger regression.  <a href="https://doi.org/10.1002/gepi.22131"><b>Genetic Epidemiology</b></a> 2018; 1–16.</p>
@@ -19,18 +18,15 @@ layout: page
 
 <p>Krier J, <b>Barfield R<sup>*</sup></b>, Green RC, Kraft P. Reclassification of genetic-based risk predictions as GWAS data accumulate. <a href="http://doi.org/10.1186/s13073-016-0272-5"><b>Genome Medicine</b></a>. 2016;8:20.</p>
 
-
 <h4 id="2014">2014</h4>
 
 <p><b>Barfield, R. T.</b>, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies. <a href="https://doi.org/10.1002/gepi.21789"><b>Genetic Epidemiology</b></a>, 38: 231-241.</p>
 
 <p>Wolpin, B. M., Rizzato, C., Kraft, P., Kooperberg, C., Petersen, G. M., Wang, Z.,.., Amundadottir, L. T. (2014). Genome-wide association study identifies multiple susceptibility locifor pancreatic cancer. <a href="http://doi.org/10.1038/ng.3052"><b>Nature Genetics</b></a>, 46(9), 994–1000.</p> 
 
-
 <h4 id="2013">2013</h4>
 
 <p>Goldlust IS, Hermetz KE, Catalano LM, et al. Mouse model implicates GNB3 duplication in a childhood obesity syndrome. <a href="http://doi.org/10.1073/pnas.1305999110"><b>Proceedings of the National Academy of Sciences of the United States of America</b></a>. 2013;110(37):14990-14994.</p>
-
 
 <h4 id="2012">2012</h4>
 
@@ -39,7 +35,6 @@ layout: page
 <p>Mercer KB, Orcutt HK, Quinn JF, et al. Acute and Posttraumatic Stress Symptoms in a Prospective Gene × Environment Study of a University Campus Shooting. <a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1107439"><b>Arch Gen Psychiatry</b></a>. 2012;69(1):89–97.</p>
 
 <p>Kilaru V, <b>Barfield R</b>, Schroeder JW, Smith AK, Conneely KN (2012). MethLAB: A graphical user interface package for the analysis of array-based DNA methylation data. <a href="https://doi.org/10.4161/epi.7.3.19284"><b>Epigenetics</b></a>, 7:3, 225-229.</p>
-
 
 <h3 id="Co-Papers">Papers Under Revision</h3>
 
