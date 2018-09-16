@@ -26,13 +26,13 @@ layout: page
 
 <h4 id="2013">2013</h4>
 
-<p>Goldlust IS, Hermetz KE, Catalano LM,<b>Barfield R </b>, et al. Mouse model implicates GNB3 duplication in a childhood obesity syndrome. <a href="http://doi.org/10.1073/pnas.1305999110"><b>Proceedings of the National Academy of Sciences of the United States of America</b></a>. 2013;110(37):14990-14994.</p>
+<p>Goldlust IS, Hermetz KE, Catalano LM, <b>Barfield R </b>, et al. Mouse model implicates GNB3 duplication in a childhood obesity syndrome. <a href="http://doi.org/10.1073/pnas.1305999110"><b>Proceedings of the National Academy of Sciences of the United States of America</b></a>. 2013;110(37):14990-14994.</p>
 
 <h4 id="2012">2012</h4>
 
 <p><b>Barfield, R.</b>, Kilaru, V., Smith, A. K. & Conneely, K. N. (2012). CpGassoc: an R function for analysis of DNA methylation microarray data. <a href="https://academic.oup.com/bioinformatics/article/28/9/1280/312316"><b>Bioinformatics</b></a>, 28, 1280-1281. doi: 10.1093/bioinformatics/bts124</p> 
 
-<p>Mercer KB, Orcutt HK, Quinn JF, Fitzgerald C, Conneely K, Barfield R, Gillespie C, Ressler K. Acute and Posttraumatic Stress Symptoms in a Prospective Gene × Environment Study of a University Campus Shooting. <a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1107439"><b>Arch Gen Psychiatry</b></a>. 2012;69(1):89–97.</p>
+<p>Mercer KB, Orcutt HK, Quinn JF, Fitzgerald C, Conneely K, <b>Barfield R</b>, Gillespie C, Ressler K. Acute and Posttraumatic Stress Symptoms in a Prospective Gene × Environment Study of a University Campus Shooting. <a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1107439"><b>Arch Gen Psychiatry</b></a>. 2012;69(1):89–97.</p>
 
 <p>Kilaru V, <b>Barfield R</b>, Schroeder JW, Smith AK, Conneely KN (2012). MethLAB: A graphical user interface package for the analysis of array-based DNA methylation data. <a href="https://doi.org/10.4161/epi.7.3.19284"><b>Epigenetics</b></a>, 7:3, 225-229.</p>
 
