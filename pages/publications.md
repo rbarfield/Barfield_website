@@ -8,7 +8,7 @@ layout: page
 
 <p><b>Barfield R </b>, Feng H, Gusev A, et al. Transcriptome‐wide association studies accounting for colocalization using Egger regression.  <a href="https://doi.org/10.1002/gepi.22131"><b>Genetic Epidemiology</b></a> 2018; 1–16.</p>
 
-<p>Wu L, Shi W, Long J, Guo X, Michailidou K, Beesley J, Bolla MK, Shu X-O, Lu Y, Cai Q,..., <b>Barfield R</b>,..., and others. 2018. A transcriptome-wide association study of 229,000 women identifies new candidate susceptibility genes for breast cancer. <a href="https://www.nature.com/articles/s41588-018-0132-x"><b>Nature Genetics</b></a>.<p>
+<p>Wu L, Shi W, Long J, Guo X, Michailidou K, Beesley J, Bolla MK, Shu X-O, Lu Y, Cai Q,..., <b>Barfield R</b>,..., Zheng W. 2018. A transcriptome-wide association study of 229,000 women identifies new candidate susceptibility genes for breast cancer. <a href="https://www.nature.com/articles/s41588-018-0132-x"><b>Nature Genetics</b></a>.<p>
 
 <h4 id="2017">2017</h4>
 
