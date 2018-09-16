@@ -8,7 +8,7 @@ layout: page
 
 <p><b>Barfield R </b>, Feng H, Gusev A, et al. Transcriptome‐wide association studies accounting for colocalization using Egger regression.  <a href="https://doi.org/10.1002/gepi.22131"><b>Genetic Epidemiology</b></a> 2018; 1–16.</p>
 
-<p>Wu L, Shi W, Long J, Guo X, Michailidou K, Beesley J, Bolla MK, Shu X-O, Lu Y, Cai Q and others. 2018. A transcriptome-wide association study of 229,000 women identifies new candidate susceptibility genes for breast cancer. <a href="https://www.nature.com/articles/s41588-018-0132-x"><b>Nature Genetics</b></a>.<p>
+<p>Wu L, Shi W, Long J, Guo X, Michailidou K, Beesley J, Bolla MK, Shu X-O, Lu Y, Cai Q,..., <b>Barfield R</b>,..., and others. 2018. A transcriptome-wide association study of 229,000 women identifies new candidate susceptibility genes for breast cancer. <a href="https://www.nature.com/articles/s41588-018-0132-x"><b>Nature Genetics</b></a>.<p>
 
 <h4 id="2017">2017</h4>
 
@@ -22,7 +22,7 @@ layout: page
 
 <p><b>Barfield, R. T.</b>, Almli, L. M., Kilaru, V. , Smith, A. K., Mercer, K. B., Duncan, R. , Klengel, T. , Mehta, D. , Binder, E. B., Epstein, M. P., Ressler, K. J. and Conneely, K. N. (2014), Accounting for Population Stratification in DNA Methylation Studies. <a href="https://doi.org/10.1002/gepi.21789"><b>Genetic Epidemiology</b></a>, 38: 231-241.</p>
 
-<p>Wolpin, B. M., Rizzato, C., Kraft, P., Kooperberg, C., Petersen, G. M., Wang, Z.,.., Amundadottir, L. T. (2014). Genome-wide association study identifies multiple susceptibility locifor pancreatic cancer. <a href="http://doi.org/10.1038/ng.3052"><b>Nature Genetics</b></a>, 46(9), 994–1000.</p> 
+<p>Wolpin, B. M., Rizzato, C., Kraft, P., Kooperberg, C., Petersen, G. M., Wang, Z.,..,<b>Barfield R</b>,..., Amundadottir, L. T. (2014). Genome-wide association study identifies multiple susceptibility locifor pancreatic cancer. <a href="http://doi.org/10.1038/ng.3052"><b>Nature Genetics</b></a>, 46(9), 994–1000.</p> 
 
 <h4 id="2013">2013</h4>
 
