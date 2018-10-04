@@ -39,9 +39,9 @@ layout: page
 
 <p>Kilaru V, <b>Barfield R</b>, Schroeder JW, Smith AK, Conneely KN (2012). MethLAB: A graphical user interface package for the analysis of array-based DNA methylation data. <a href="https://doi.org/10.4161/epi.7.3.19284"><b>Epigenetics</b></a>, 7:3, 225-229.</p>
 
+
 <h3 id="Co-Papers">Papers Under Revision</h3>
-
-
+None at the moment. Thanks for asking though.
 
 
 <sup>*</sup> Co First Author
