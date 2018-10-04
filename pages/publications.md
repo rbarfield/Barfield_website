@@ -6,6 +6,9 @@ layout: page
 
 <h4 id="2018">2018</h4>
 
+
+<p>J. Carmona, <b>R. Barfield<sup>*</sup></b>, T. Panni, ..., H. Schulz, and A. Baccarelli, Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts. Epigenetics. Accepted September 2018. </p> 
+
 <p><b>Barfield R </b>, Feng H, Gusev A, et al. Transcriptome‐wide association studies accounting for colocalization using Egger regression.  <a href="https://doi.org/10.1002/gepi.22131"><b>Genetic Epidemiology</b></a> 2018; 1–16.</p>
 
 <p>Wu L, Shi W, Long J, Guo X, Michailidou K, Beesley J, Bolla MK, Shu X-O, Lu Y, Cai Q,..., <b>Barfield R</b>,..., Zheng W. 2018. A transcriptome-wide association study of 229,000 women identifies new candidate susceptibility genes for breast cancer. <a href="https://www.nature.com/articles/s41588-018-0132-x"><b>Nature Genetics</b></a>.<p>
@@ -38,7 +41,6 @@ layout: page
 
 <h3 id="Co-Papers">Papers Under Revision</h3>
 
-<p>J. Carmona, <b>R. Barfield<sup>*</sup></b>, T. Panni, ..., H. Schulz, and A. Baccarelli, Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts. Second Round of Revisions August 2018. </p> 
 
 
 
