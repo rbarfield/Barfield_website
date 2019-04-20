@@ -5,12 +5,12 @@ layout: page
 <h2> Publications
 
 <h4 id="2019">2019</h4>
-<p>Nothing Yet!</p>
+
+<p>Cade BE, Chen H, Stilp AM, Louie T, Ancoli-Israel S, Arens R, <b>Barfield R </b>,..., Lin, X, Redline, S. Associations of variants in the hexokinase 1 and interleukin 18 receptor regions with oxyhemoglobin saturation during sleep. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30990817"><b>PLOS Genetics</b></a>. April 2019.</p>
 
 <h4 id="2018">2018</h4>
 
-
-<p>J. Carmona, <b>R. Barfield<sup>*</sup></b>, T. Panni, ..., H. Schulz, and A. Baccarelli, Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts. Epigenetics. Accepted September 2018. </p> 
+<p>J. Carmona, <b>R. Barfield<sup>*</sup></b>, T. Panni, ..., H. Schulz, and A. Baccarelli, Metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the NAS and KORA cohorts. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30343628"><b>Epigenetics</b></a>. October 2018. </p> 
 
 <p><b>Barfield R </b>, Feng H, Gusev A, et al. Transcriptome‐wide association studies accounting for colocalization using Egger regression.  <a href="https://doi.org/10.1002/gepi.22131"><b>Genetic Epidemiology</b></a> 2018; 1–16.</p>
 
