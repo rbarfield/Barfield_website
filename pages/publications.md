@@ -6,7 +6,9 @@ layout: page
 
 <h4 id="2019">2019</h4>
 
-<p>Cade BE, Chen H, Stilp AM, Louie T, Ancoli-Israel S, Arens R, <b>Barfield R</b>,..., Lin, X, Redline, S. Associations of variants in the hexokinase 1 and interleukin 18 receptor regions with oxyhemoglobin saturation during sleep. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30990817"><b>PLOS Genetics</b></a>. April 2019.</p>
+<p><b>Barfield R</b>, Wang H, Liu Y, …, Lin X, Redline S, Sofer T. Epigenome-wide association analysis of daytime sleepiness in the Multi-Ethnic Study of Atherosclerosis reveals African-American-specific associations. <a href="https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsz101/5492629"><b>Sleep</b></a>. May 2019.</p>
+
+<p>Cade BE, Chen H, Stilp AM, Louie T, Ancoli-Israel S, Arens R, <b>Barfield R</b> ,..., Lin, X, Redline, S. Associations of variants in the hexokinase 1 and interleukin 18 receptor regions with oxyhemoglobin saturation during sleep. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30990817"><b>PLOS Genetics</b></a>. April 2019.</p>
 
 <h4 id="2018">2018</h4>
 
