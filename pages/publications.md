@@ -4,6 +4,23 @@ layout: page
 <html lang="en-us">
 <h2> Publications
 
+<h4 id="2021>2021/h4>
+
+<p>Zhonghua Liu, Jincheng Shen, Richard Barfield, Joel Schwartz, Andrea A. Baccarelli & Xihong Lin (2021) Large-Scale Hypothesis Testing for Causal Mediation Effects with Applications in Genome-wide Epigenetic Studies, Journal of the American Statistical Association, DOI: 10.1080/01621459.2021.1914634 </p>
+
+<p>Huyghe JR, Harrison TA, Bien SA, et al Genetic architectures of proximal and distal colorectal cancer are partly distinct Gut Published Online First: 25 February 2021. doi: 10.1136/gutjnl-2020-321534 </p>
+
+<h4 id="2020">2020</h4>
+
+<p>Guptill, J.T., Barfield, R., Chan, C., et al. (2020), Reduced plasmablast frequency is associated with seronegative myasthenia gravis. Muscle & Nerve. Accepted Author Manuscript. https://doi.org/10.1002/mus.27140</p>
+
+<p>Dong X, Su YR, Barfield R, Bien SA, He Q, et al. (2020) A general framework for functionally informed set-based analysis: Application to a large-scale colorectal cancer study. PLOS Genetics 16(8): e1008947. https://doi.org/10.1371/journal.pgen.1008947</p>
+
+<p>Hidaka A, Harrison TA, Cao Y, et al. Intake of dietary fruit, vegetables, and fiber and risk of colorectal cancer according to molecular subtypes: A pooled analysis of 9 studies. Cancer Research. 2020; doi:10.1158/0008-5472.CAN-20-0168</p>
+
+<p>Zaidi, S.H., Harrison, T.A., Phipps, A.I., et al. Landscape of somatic single nucleotide variants and indels in colorectal cancer and impact on survival. Nature Communications. 11, 3644 (2020).</>
+
+
 <h4 id="2019">2019</h4>
 
 <p><b>Barfield R</b>, Wang H, Liu Y, …, Lin X, Redline S, Sofer T. Epigenome-wide association analysis of daytime sleepiness in the Multi-Ethnic Study of Atherosclerosis reveals African-American-specific associations. <a href="https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsz101/5492629"><b>Sleep</b></a>. May 2019.</p>
