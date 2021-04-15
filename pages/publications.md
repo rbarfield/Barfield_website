@@ -4,7 +4,7 @@ layout: page
 <html lang="en-us">
 <h2> Publications
 
-<h4 id="2021>2021</h4>
+<h4 id="2021">2021</h4>
 
 <p>Zhonghua Liu, Jincheng Shen, Richard Barfield, Joel Schwartz, Andrea A. Baccarelli & Xihong Lin (2021) Large-Scale Hypothesis Testing for Causal Mediation Effects with Applications in Genome-wide Epigenetic Studies, Journal of the American Statistical Association, DOI: 10.1080/01621459.2021.1914634 </p>
 
