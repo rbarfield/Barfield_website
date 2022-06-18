@@ -8,6 +8,20 @@ layout: page
 
 Publications
 
+
+<h4 id="2022">
+
+2022
+
+</h4>
+
+Barfield, R., Qu, C., Steinfelder, R.S. et al. Association between germline variants and somatic mutations in colorectal cancer. Sci Rep 12, 10207 (2022). https://doi.org/10.1038/s41598-022-14408-2
+
+Eckhoff AM, Connor AA, Thacker JKM, et al. A Multidimensional Bioinformatic Platform for the Study of Human Response to Surgery. Annals of Surgery. 2022 Jun;275(6):1094-1102. DOI: 10.1097/sla.0000000000005429. PMID: 35258509. 
+
+
+Barfield R, Huyghe JR, Lemire M, Dong X, Su YR, Brezina S, Buchanan DD, Figueiredo JC, Gallinger S, Giannakis M, Gsur A, Gunter MJ, Hampel H, Harrison TA, Hopper JL, Hudson TJ, Li CI, Moreno V, Newcomb PA, Pai RK, Pharoah PDP, Phipps AI, Qu C, Steinfelder RS, Sun W, Win AK, Zaidi SH, Campbell PT, Peters U, Hsu L. Genetic Regulation of DNA Methylation Yields Novel Discoveries in GWAS of Colorectal Cancer. Cancer Epidemiol Biomarkers Prev. 2022 May 4;31(5):1068-1076. doi: 10.1158/1055-9965.EPI-21-0724. PMID: 35247911; PMCID: PMC9081265.
+
 <h4 id="2021">
 
 2021
