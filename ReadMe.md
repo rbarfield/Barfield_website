@@ -1,5 +1,5 @@
 #  https://rbarfield.github.io/Barfield_website
-Please email rbarfiel at fredhutch.org with any comments.
+Please email rtb35 at duke.edu with any comments.
 
 
 
