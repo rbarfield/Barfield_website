@@ -29,7 +29,7 @@ Eckhoff AM, Connor AA, Thacker JKM, et al. A Multidimensional Bioinformatic Plat
 
 <p>
 
-Barfield R, Huyghe JR, Lemire M, Dong X, Su YR, Brezina S, Buchanan DD, Figueiredo JC, Gallinger S, Giannakis M, Gsur A, Gunter MJ, Hampel H, Harrison TA, Hopper JL, Hudson TJ, Li CI, Moreno V, Newcomb PA, Pai RK, Pharoah PDP, Phipps AI, Qu C, Steinfelder RS, Sun W, Win AK, Zaidi SH, Campbell PT, Peters U, Hsu L. Genetic Regulation of DNA Methylation Yields Novel Discoveries in GWAS of Colorectal Cancer. Cancer Epidemiol Biomarkers Prev. 2022 May 4;31(5):1068-1076. doi: 10.1158/1055-9965.EPI-21-0724. PMID: 35247911; PMCID: PMC9081265.
+Barfield R, Huyghe JR, Lemire M, Dong X, Su YR, Brezina S, ..., Peters U, Hsu L. Genetic Regulation of DNA Methylation Yields Novel Discoveries in GWAS of Colorectal Cancer. Cancer Epidemiol Biomarkers Prev. 2022 May 4;31(5):1068-1076. doi: 10.1158/1055-9965.EPI-21-0724. PMID: 35247911; PMCID: PMC9081265.
 
 </p>
 
