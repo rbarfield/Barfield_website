@@ -16,6 +16,18 @@ Publications
 </h4>
 
 <p>
+Murdoch, D.M., Barfield, R., Chan, C. et al. Neuroimaging and immunological features of neurocognitive function related to substance use in people with HIV. J. Neurovirol. (2022). https://doi.org/10.1007/s13365-022-01102-2
+</p>
+
+<p>
+Melissa J Harnois, Maria Dennis, Dagmar Stöhr, Sarah M Valencia, Nicole Rodgers, Eleanor C Semmes, Helen S Webster, Jennifer A Jenks, Richard Barfield, Justin Pollara, Cliburn Chan, Christian Sinzger, Sallie R Permar, Characterization of Plasma Immunoglobulin G Responses in Elite Neutralizers of Human Cytomegalovirus, The Journal of Infectious Diseases, Volume 226, Issue 9, 1 November 2022, Pages 1667–1677, https://doi.org/10.1093/infdis/jiac341 
+</p>
+
+<p>
+Chen JL, Fries CN, Berendam SJ, Rodgers NS, Roe EF, Wu Y, Li SH, Jain R, Watts B, Eudailey J, Barfield R, Chan C, Moody MA, Saunders KO, Pollara J, Permar SR, Collier JH, Fouda GG. Self-assembling peptide nanofiber HIV vaccine elicits robust vaccine-induced antibody functions and modulates Fc glycosylation. Sci Adv. 2022 Sep 23;8(38):eabq0273. doi: 10.1126/sciadv.abq0273. Epub 2022 Sep 23. PMID: 36149967; PMCID: PMC9506727.
+</p>
+
+<p>
 
 Barfield, R., Qu, C., Steinfelder, R.S. et al. Association between germline variants and somatic mutations in colorectal cancer. Sci Rep 12, 10207 (2022). https://doi.org/10.1038/s41598-022-14408-2
 
