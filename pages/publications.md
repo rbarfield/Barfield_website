@@ -9,7 +9,15 @@ layout: page
 Publications
 
 
+<hr id="2023">
+
+2023
+</h4>
+
+<p>
+Hansen SG, Womack JL, Perez W, Schmidt KA, Marshall E, Iyer RF, Cleveland Rubeor H, Otero CE, Taher H, Vande Burgt NH, Barfield R, Randall KT, Morrow D, Hughes CM, Selseth AN, Gilbride RM, Ford JC, Caposio P, Tarantal AF, Chan C, Malouli D, Barry PA, Permar SR, Picker LJ, Früh K. Late gene expression-deficient cytomegalovirus vectors elicit conventional T cells that do not protect against SIV. JCI Insight. 2023 Mar 22;8(6):e164692. doi: 10.1172/jci.insight.164692. PMID: 36749635.  
 <h4 id="2022">
+</p> 
 
 2022
 
