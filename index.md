@@ -16,7 +16,7 @@ title: Richard T. Barfield, PhD
 <h3 id="biography">Biography</h3>
 
 
-<p> I am a Biostatistician III in the biostatistics department at Duke University within the BERD Core. I work within the Center for Human Systems Immunology with Dr. Cliburn Chan. I received my PhD in biostatistics at Harvard University working with Drs. Xihong Lin and Peter Kraft. I also have an MPH in biostatistics from Emory University working with Dr. Karen Conneely. After my PhD, I spent two years as a post-doc at Fred Hutchinson Cancer Research Center and the University of Washington.</p>
+<p> I am a Biostatistician III in the Biostatistics and Bioinformatics Department at Duke University. I currently work within the Center for Human Systems Immunology (CHSI) and the Center for Aids Research (CFAR) with Dr. Cliburn Chan. There I serve as a collaborative statistician working with investigators on a number of Immunological and HIV/AIDS projects. I received my PhD in biostatistics at Harvard University working with Drs. Xihong Lin and Peter Kraft. I also have an MPH in biostatistics from Emory University working with Dr. Karen Conneely. After my PhD (and prior to joining Duke), I was a post-doc at Fred Hutchinson Cancer Research Center and the University of Washington working with Drs. Li Hsu and Ulrike Peters.</p>
 
 
 <h3 id="education">Education</h3>
